@@ -3,10 +3,10 @@
   "displayName": "Gunbot Custom Trading Strategy Snippets",
   "publisher": "gunbot-trading-bot",
   "description": "Enhance your Gunbot custom trading strategies with ready-to-use JavaScript snippets. This extension provides quick access to Gunbot methods, data points, and technical indicators to streamline strategy development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "img/logo192.png",
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.55.0"
   },
   "main": "./out/extension.js",
   "repository": {
@@ -68,6 +68,6 @@
   },
   "devDependencies": {
     "@types/node": "^22.5.3",
-    "@types/vscode": "^1.92.0"
+    "@types/vscode": "^1.55.0"
   }
 }
