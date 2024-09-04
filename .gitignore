@@ -1,0 +1,47 @@
+# Ignore node modules
+node_modules/
+
+# Ignore build output (if using TypeScript or bundling tools)
+out/
+dist/
+
+# Ignore TypeScript declaration maps
+**/*.d.ts.map
+
+# Ignore any log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Ignore local environment config files
+.env
+.env.local
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode-test/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
+
+# Ignore package lock files (optional)
+# Uncomment if you're not committing lock files
+# package-lock.json
+# yarn.lock
+
+# Ignore VSCE package (output from packaging your extension)
+*.vsix
+
+# Ignore source maps (if applicable)
+**/*.map
+
+# Ignore images source files (e.g., PSDs, SVGs, etc.)
+img/*.psd
+
+# Ignore any temporary files or backups
+*.bak
+*.tmp
