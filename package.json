@@ -2,7 +2,7 @@
   "name": "gunbot-custom-trading-strategy-snippets",
   "displayName": "Gunbot Custom Trading Strategy Snippets",
   "publisher": "gunbot-trading-bot",
-  "description": "Easily create and enhance your Gunbot custom trading strategies with a collection of pre-built, ready-to-use JavaScript code snippets. Designed for traders and developers using Gunbot, this extension provides quick access to methods, data points, technical indicators, and data visualization elements that are fully supported by Gunbot. Whether you're a seasoned trader optimizing your strategy or a developer experimenting with new trading ideas, this extension speeds up your workflow and ensures you're using the correct, Gunbot-supported methods every time.",
+  "description": "Enhance your Gunbot custom trading strategies with ready-to-use JavaScript snippets. This extension provides quick access to Gunbot methods, data points, and technical indicators to streamline strategy development.",
   "version": "0.0.1",
   "icon": "img/logo192.png",
   "engines": {
@@ -28,12 +28,9 @@
   ],
   "keywords": [
     "Gunbot",
-    "Custom trading strategies",
-    "custom strategies",
+    "trading",
+    "strategies",
     "indicators",
-    "technical indicators",
-    "trading bot",
-    "crypto trading bot",
     "snippets",
     "automation",
     "JavaScript"
@@ -50,7 +47,7 @@
         {
           "id": "snippetsViewContainer",
           "title": "Snippets",
-          "icon": "img/logo192.svg" 
+          "icon": "img/logo192.svg"
         }
       ]
     },

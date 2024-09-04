@@ -2,9 +2,9 @@
 
 Easily create and enhance your [Gunbot custom trading strategies](https://www.gunbot.com/support/docs/custom-strategies/what-are-custom-strategies/) with a collection of pre-built, ready-to-use JavaScript code snippets. This extension provides quick access to methods, data points, technical indicators, and data visualization elements that are fully supported by Gunbot, a popular [crypto trading bot](https://www.gunbot.com).
 
-![Snippet Sidebar](img/extension-screenshot.png)
-
 Designed for devs on the Gunbot platform, this extension makes it easy to use a collection of ready made snippets based on supported methods and data points, allowing you to focus on fine-tuning and performance optimization. It also includes a dedicated sidebar that shows the full list of snippets, making it easy to find and insert exactly what you need.
+
+![Snippet Sidebar](img/extension-screenshot.png)
 
 ## Features
 - Quick access to **Gunbot-supported methods** for custom strategies.
