@@ -1,0 +1,1 @@
+# vscode-gunbot-custom-trading-strategy-snippets
